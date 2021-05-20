@@ -9,7 +9,7 @@
 3. Complete UI is visible on the other side of the window.
 4. For the component requiring props/parameter, we can mock the data in PreviewProvider and see the result. This makes easy for other developers to reuse and the component and see the working of a single component.
 5. Components can be easily isolated and tested.
-6. Hot reloading benefits : In other languages like react native you still have to run the app once and while coding if some javascript error occurs you need to relaod the application but here in SwiftUI while typing you will see the changes and even some syntacx error u made it just stops rendering and if you correct it, it will work in the same way.
+6. Hot reloading benefits : In other technology like react native you still have to run the app once and while coding if some javascript error occurs you need to relaod the application but here in SwiftUI while typing you will see the changes and even some syntacx error u made it just stops rendering and if you correct it, it will work in the same way.
 7. You can add as many devices for preview providers. So easy to see component on different devices.
 8. Any you change in the SwiftUI components from the SwiftUI inspector it gets coded along with change unlike storyboards and xibs which creates alot of confusion. Some changes were from the code and some from the storyboard/xib UI. This will help in code review and also for theming.
 9. Code like a html where padding, alignment, margin works. 
